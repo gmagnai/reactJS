@@ -1,0 +1,17 @@
+@charset 'UTF-8';
+
+@import 'global/plugins/simple-line-icons/simple-line-icons.min.css';
+@import 'global/plugins/bootstrap-daterangepicker/daterangepicker.min.css';
+@import 'global/plugins/morris/morris.css';
+@import 'global/plugins/fullcalendar/fullcalendar.min.css';
+@import 'global/plugins/jqvmap/jqvmap/jqvmap.css';
+@import 'global/css/components.min.css';
+@import 'global/css/plugins.min.css';
+
+@import 'layouts/layout4/css/layout.min.css';
+@import 'layouts/layout4/css/themes/light.min.css';
+
+@import 'layouts/layout4/css/custom.min.css';
+
+
+

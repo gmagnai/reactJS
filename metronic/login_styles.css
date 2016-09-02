@@ -1,0 +1,8 @@
+@charset 'UTF-8';
+
+@import 'global/plugins/select2/css/select2.min.css';
+@import 'global/plugins/select2/css/select2.min.css';
+@import 'global/plugins/select2/css/select2-bootstrap.min.css';
+@import 'global/css/components.min.css';
+@import 'global/css/plugins.min.css';
+@import 'pages/css/login-2.min.css';
